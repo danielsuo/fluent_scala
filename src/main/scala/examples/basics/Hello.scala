@@ -1,7 +1,6 @@
 package examples.basics
 
 import fluent._
-import fluent.Rule.Infix
 import fluent.FluentActor.Message
 
 class Hello() extends FluentProgram {
